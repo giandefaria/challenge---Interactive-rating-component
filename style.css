@@ -8,7 +8,7 @@ body, html {
 }
 
 .box {
-    width: 72%;
+    width: 76%;
     height: 800px;
     margin-left: auto;
     margin-right: auto;
@@ -17,4 +17,15 @@ body, html {
     box-sizing: border-box;
     background-color: hsl(216, 12%, 8%)
     
+}
+
+.box2 {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 25%;
+    margin: auto;
+    background: radial-gradient(at top, hsl(213, 19%, 18%), hsl(214, 15%, 9%));
+    border-radius: 30px;    
+
 }
