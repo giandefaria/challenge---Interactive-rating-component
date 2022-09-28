@@ -2,7 +2,7 @@ body, html {
     font-family: 'Montserrat', sans-serif;
     width: auto;
     height: auto;
-    background-color: hsl(90, 4%, 11%)
+    background-color: hsl(216, 12%, 8%)
             
 }
 
@@ -73,6 +73,7 @@ p {
     background-color: hsl(25, 97%, 53%);
     border-color: transparent;
     color: whitesmoke;
+    letter-spacing: 0.1em;
     border-radius: 30px;
     width: 340px;
     height: 45px;
