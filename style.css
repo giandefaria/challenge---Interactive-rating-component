@@ -1,10 +1,9 @@
 body, html {
+    font-family: 'Montserrat', sans-serif;
     width: auto;
     height: auto;
     background-color: hsl(90, 4%, 11%)
-    
-    
-    
+            
 }
 
 .box {
@@ -27,5 +26,58 @@ body, html {
     margin: auto;
     background: radial-gradient(at top, hsl(213, 19%, 18%), hsl(214, 15%, 9%));
     border-radius: 30px;    
+
+}
+
+#star {
+    background: hsla(216, 12%, 54%, 0.164);
+    border-color: transparent;
+    margin: 30px;
+    border-radius: 50%;
+    padding: 12px;
+}
+
+h1 {
+    color: white;
+    font-size: 20px;
+    margin: 2px 0 20px 30px;
+    display: inline-block;
+}
+
+p {
+    color: hsl(217, 12%, 63%);
+    margin: 0 15px 0 30px;
+    text-align: left;
+    font-size: 13px;
+    line-height: 1.5;
+}
+
+.botoes {
+    margin: auto;
+}
+
+.botao-nota {
+    font-family: 'Montserrat', sans-serif;
+    background: hsla(216, 12%, 54%, 0.164);
+    border-color: transparent;
+    color: hsl(216, 12%, 54%);
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    margin: 25px 0 0 20px;
+    
+    
+}
+
+.submit {
+    background-color: hsl(25, 97%, 53%);
+    border-color: transparent;
+    color: whitesmoke;
+    border-radius: 30px;
+    width: 340px;
+    height: 45px;
+    margin: 20px 25px auto;
+    
+    
 
 }
