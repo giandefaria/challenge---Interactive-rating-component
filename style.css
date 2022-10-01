@@ -99,17 +99,39 @@ body, html {
 
 }
 
+#imagemVoto {
+    text-align: center;
+    padding: 40px 0 30px 0;
+}
+
+.text {
+    text-align: center;
+}
+
+#confirmacaoVoto {
+    width: 38%;
+    padding: 7px;
+    margin: auto;
+    border-radius: 20px;
+    background: hsla(216, 12%, 54%, 0.164);
+    text-align: center;
+    color: orange
+    
+}
+
 .box2-nota h1 {
     color: white;
-    font-size: 20px;
-    margin: 2px 0 20px 30px;
+    font-size: 25px;
+    font-weight: bold;
+    margin: 20px 0 20px 30px;
     display: inline-block;
+    
 }
 
 .box2-nota p {
     color: hsl(217, 12%, 63%);
-    margin: 0 15px 0 30px;
-    text-align: left;
+    font-weight: bold;
+    margin: 0 35px 0 35px;
     font-size: 13px;
-    line-height: 1.5;
+    line-height: 1.7em;
 }

@@ -13,16 +13,18 @@
 <body>
     <div class="box">
         <div class="box2-nota">
-            <div>
+            <div id="imagemVoto">
                 <img src="images/illustration-thank-you.svg" alt="tank you image">
             </div>
         
-            <p>You selected <script>document.write(sessionStorage.getItem("nota"));</script> out of 5</p>
+            <div class="text">
+                <p id="confirmacaoVoto">You selected <script>document.write(sessionStorage.getItem("nota"));</script> out of 5</p>
 
-            <h1>Thank you!</h1>
-          
-            <p>We appreciate you taking the time to give a rating. If you ever need more support, 
-            don’t hesitate to get in touch!</p>
+                <h1>Thank you!</h1>
+            
+                <p>We appreciate you taking the time to give a rating. <br>If you ever need more support, 
+                don’t hesitate to get in touch!</p>
+            </div>
             
         </div>
     </div>
