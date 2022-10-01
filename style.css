@@ -65,8 +65,13 @@ p {
     width: 50px;
     height: 50px;
     margin: 25px 0 0 20px;
+    cursor: pointer;
     
     
+}
+
+.botao-nota:focus {
+    border-color: orange;
 }
 
 .submit {
@@ -78,7 +83,5 @@ p {
     width: 340px;
     height: 45px;
     margin: 20px 25px auto;
-    
-    
-
+    cursor: pointer;
 }
