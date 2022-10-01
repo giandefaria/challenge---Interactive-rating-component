@@ -37,14 +37,14 @@ body, html {
     padding: 12px;
 }
 
-h1 {
+.box2 h1 {
     color: white;
     font-size: 20px;
     margin: 2px 0 20px 30px;
     display: inline-block;
 }
 
-p {
+.box2 p {
     color: hsl(217, 12%, 63%);
     margin: 0 15px 0 30px;
     text-align: left;
@@ -84,4 +84,32 @@ p {
     height: 45px;
     margin: 20px 25px auto;
     cursor: pointer;
+}
+
+/*  CSS da página voto.html */
+
+.box2-nota {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 25%;
+    margin: auto;
+    background: radial-gradient(at top, hsl(213, 19%, 18%), hsl(214, 15%, 9%));
+    border-radius: 30px;    
+
+}
+
+.box2-nota h1 {
+    color: white;
+    font-size: 20px;
+    margin: 2px 0 20px 30px;
+    display: inline-block;
+}
+
+.box2-nota p {
+    color: hsl(217, 12%, 63%);
+    margin: 0 15px 0 30px;
+    text-align: left;
+    font-size: 13px;
+    line-height: 1.5;
 }

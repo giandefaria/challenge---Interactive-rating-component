@@ -10,9 +10,9 @@ for (let contador = 0; contador < listaNotas.length; contador++) {
     } 
 }
 
-let nota = 0
+
 function selecionaNota (contador) {
     console.log(listaNotas[contador].value);
-    nota = listaNotas[contador].value;
+    let nota = listaNotas[contador].value;
     sessionStorage.setItem("nota", nota);
 }
