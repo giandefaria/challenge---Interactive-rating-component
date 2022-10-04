@@ -2,7 +2,7 @@
 # challenge---Interactive-rating-component
 > Challenge site Frontend https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI
 
-Objetivo é tentar criar um site o máximo possível semelhante ao exemplo do site. 
+Objetivo é tentar criar um site o máximo possível semelhante ao exemplo encontrado no link acima. 
 # Arquivo index.html
     *Nesse arquivo consta a primeira página, onde o usuário deverá dar o seu feedback selecionando uma nota a ser atribuída e, após a seleção, clica no botão submit. 
     *ao clicar no botão, será aberta a página voto.html
