@@ -26,7 +26,7 @@
 O layout do projeto é baseado nesse challenge do site Frontend Mentor: https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI
 
 
-O objetivo é criar um cartão de crédito interativo, onde a numeração da imagem é preenchida de acordo com os dados informados nos campos da página, vide exemplo constante no link acima.
+O objetivo é criar uma página interativa onde o usuário fornece uma nota de feedback no serviço, e a nota escolida terá que aparecer em uma mensagem final em uma segunda tela.
 
 Para executar esse projeto basta executar o arquivo index.html.
 
