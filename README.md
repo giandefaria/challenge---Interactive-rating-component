@@ -13,7 +13,14 @@
   />
 </p>
 
+<<<<<<< HEAD
 # 📋 Índice do projeto
+=======
+Objetivo é tentar criar um site o máximo possível semelhante ao exemplo encontrado no link acima. 
+# Arquivo index.html
+    *Nesse arquivo consta a primeira página, onde o usuário deverá dar o seu feedback selecionando uma nota a ser atribuída e, após a seleção, clica no botão submit. 
+    *ao clicar no botão, será aberta a página voto.html
+>>>>>>> bc2a0cd7ea7cf325d353a33783f69043600e598f
 
 
 - [Proposta do projeto](#id01)
