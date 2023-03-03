@@ -23,7 +23,7 @@
 
 # Proposta do projeto <a name="id01"></a>
 
-O layout do projeto é baseado nesse challenge do site Frontend Mentor: https://www.frontendmentor.io/challenges/interactive-card-details-form-XpS8cKZDWw
+O layout do projeto é baseado nesse challenge do site Frontend Mentor: https://www.frontendmentor.io/challenges/interactive-rating-component-koxpeBUmI
 
 
 O objetivo é criar um cartão de crédito interativo, onde a numeração da imagem é preenchida de acordo com os dados informados nos campos da página, vide exemplo constante no link acima.
