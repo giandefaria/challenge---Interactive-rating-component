@@ -1,15 +1,15 @@
 <p align="center">
   <image
-  src="https://img.shields.io/github/languages/count/giandefaria/challeng-interactive-card-details-form-main"
+  src="https://img.shields.io/github/languages/count/giandefaria/challenge---Interactive-rating-component"
   />
   <image
-  src="https://img.shields.io/github/languages/top/giandefaria/challeng-interactive-card-details-form-main"
+  src="https://img.shields.io/github/languages/top/giandefaria/challenge---Interactive-rating-component"
   />
   <image
-  src="https://img.shields.io/github/last-commit/giandefaria/challeng-interactive-card-details-form-main"
+  src="https://img.shields.io/github/last-commit/giandefaria/challenge---Interactive-rating-component"
   />
   <image
-  src="https://img.shields.io/github/watchers/giandefaria/challeng-interactive-card-details-form-main"
+  src="https://img.shields.io/github/watchers/giandefaria/challenge---Interactive-rating-component"
   />
 </p>
 
